@@ -4,7 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8322976-3fa3-4bcb-a65c-8fb52d3ce792" name="Changes" comment="" />
+    <list default="true" id="f8322976-3fa3-4bcb-a65c-8fb52d3ce792" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/wp-content/fonts/amaranth/KtkoALODe433f0j1zMnALdKCxg.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/wordpress/wp-content/fonts/amaranth/KtkoALODe433f0j1zMnALdKCxg.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/wp-content/fonts/amaranth/KtkpALODe433f0j1zMF-OMWl42E.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/wordpress/wp-content/fonts/amaranth/KtkpALODe433f0j1zMF-OMWl42E.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/wp-content/fonts/amaranth/KtkrALODe433f0j1zMnAJWmn02P3Eg.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/wordpress/wp-content/fonts/amaranth/KtkrALODe433f0j1zMnAJWmn02P3Eg.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/wp-content/fonts/amaranth/KtkuALODe433f0j1zMnFHdA.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/wordpress/wp-content/fonts/amaranth/KtkuALODe433f0j1zMnFHdA.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/wp-content/fonts/titillium-web/NaPAcZTIAOhVxoMyOr9n_E7fdMbWAaxWXr0.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/wordpress/wp-content/fonts/titillium-web/NaPAcZTIAOhVxoMyOr9n_E7fdMbWAaxWXr0.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/wp-content/fonts/titillium-web/NaPAcZTIAOhVxoMyOr9n_E7fdMbWD6xW.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/wordpress/wp-content/fonts/titillium-web/NaPAcZTIAOhVxoMyOr9n_E7fdMbWD6xW.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/wp-content/fonts/titillium-web/NaPDcZTIAOhVxoMyOr9n_E7ffHjDGIVzY4SY.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/wordpress/wp-content/fonts/titillium-web/NaPDcZTIAOhVxoMyOr9n_E7ffHjDGIVzY4SY.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/wp-content/fonts/titillium-web/NaPDcZTIAOhVxoMyOr9n_E7ffHjDGItzYw.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/wordpress/wp-content/fonts/titillium-web/NaPDcZTIAOhVxoMyOr9n_E7ffHjDGItzYw.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/wp-content/fonts/titillium-web/NaPFcZTIAOhVxoMyOr9n_E7fdMbetIlDYZyc.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/wordpress/wp-content/fonts/titillium-web/NaPFcZTIAOhVxoMyOr9n_E7fdMbetIlDYZyc.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/wp-content/fonts/titillium-web/NaPFcZTIAOhVxoMyOr9n_E7fdMbetIlDb5yciWM.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/wordpress/wp-content/fonts/titillium-web/NaPFcZTIAOhVxoMyOr9n_E7fdMbetIlDb5yciWM.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/wp-content/fonts/titillium-web/NaPecZTIAOhVxoMyOr9n_E7fdM3mDbRS.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/wordpress/wp-content/fonts/titillium-web/NaPecZTIAOhVxoMyOr9n_E7fdM3mDbRS.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/wp-content/fonts/titillium-web/NaPecZTIAOhVxoMyOr9n_E7fdMPmDQ.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/wordpress/wp-content/fonts/titillium-web/NaPecZTIAOhVxoMyOr9n_E7fdMPmDQ.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/maxwell-child/screenshot.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/maxwell-child/screenshot.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/maxwell-child/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/maxwell-child/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/wp-content/uploads/elementor/css/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/wordpress/wp-content/uploads/elementor/css/global.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/wp-content/uploads/elementor/css/post-79.css" beforeDir="false" afterPath="$PROJECT_DIR$/wordpress/wp-content/uploads/elementor/css/post-79.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wordpress/wp-content/uploads/elementor/css/post-80.css" beforeDir="false" afterPath="$PROJECT_DIR$/wordpress/wp-content/uploads/elementor/css/post-80.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +39,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/wordpress/wp-content/themes/maxwell-child/footer.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -28,21 +53,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.stylelint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.stylelint": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.stylelint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.stylelint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -52,6 +77,7 @@
       <option name="presentableId" value="Default" />
       <updated>1679545771393</updated>
       <workItem from="1679545772968" duration="8941000" />
+      <workItem from="1679635527594" duration="10979000" />
     </task>
     <servers />
   </component>
